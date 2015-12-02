@@ -1,0 +1,11 @@
+[Protocol]
+exec=biton-qt '%u'
+protocol=biton
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

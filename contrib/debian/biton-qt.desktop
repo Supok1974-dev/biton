@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Biton
+Comment=Biton P2P Cryptocurrency
+Comment[fr]=Biton, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Biton, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/biton-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/biton128.png
+MimeType=x-scheme-handler/biton;
+Categories=Office;

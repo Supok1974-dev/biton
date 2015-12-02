@@ -1,0 +1,6 @@
+biton-qt usr/bin
+share/pixmaps/biton32.xpm usr/share/pixmaps
+share/pixmaps/biton16.xpm usr/share/pixmaps
+share/pixmaps/biton128.png usr/share/pixmaps
+debian/biton-qt.desktop usr/share/applications
+debian/biton-qt.protocol usr/share/kde4/services/
