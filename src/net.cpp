@@ -1175,13 +1175,18 @@ void MapPort(bool)
 static const char *strMainNetDNSSeed[][2] = {
     
     {"node.biton.pw", "node.biton.pw"},
+    {"node2.biton.pw", "node2.biton.pw"},
+    {"node3.biton.pw", "node3.biton.pw"},
+    {"node4.biton.pw", "node4.biton.pw"},
 //    {"seed5.biton.pw", "128.199.38.11"},
     {NULL, NULL}
 };
 
 static const char *strTestNetDNSSeed[][2] = {
-    {"xurious.com", "testnet-seed.ltc.xurious.com"},
-    {"wemine-testnet.com", "dnsseed.wemine-testnet.com"},
+    {"node.biton.pw", "node.biton.pw"},
+    {"node2.biton.pw", "node2.biton.pw"},
+    {"node3.biton.pw", "node3.biton.pw"},
+    {"node4.biton.pw", "node4.biton.pw"},
     {NULL, NULL}
 };
 
