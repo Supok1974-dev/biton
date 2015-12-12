@@ -745,7 +745,7 @@ void StartRPCThreads()
         uiInterface.ThreadSafeMessageBox(strprintf(
             _(
 "\n=====================================================================\n"
-"                             R U B L E B I T                           \n"
+"                                B I T O N                             \n"
 "=====================================================================\n"
 	     "%s, you must set a rpcpassword in the configuration file:\n"
               "%s\n"
