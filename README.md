@@ -12,13 +12,13 @@ Copyright (c) 2011-2016 Biton Developers
 What is Biton?
 ----------------
 
-Biton is a lite version of Biton using scrypt as a proof-of-work algorithm.
- - 30 second block targets
+Biton  using scrypt as a proof-of-work algorithm.
+ - 60 second block targets
  - subsidy halves in 1000k blocks (~2 years)
- - ~100 million total coins
+ - ~184 million total coins
 
 The rest is the same as Biton.
- - 40 coins per block
+ - 120 coins per block
  - 5 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
